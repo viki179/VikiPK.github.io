@@ -1,6 +1,7 @@
 <!DOCTYPE stylesheet>
 <style>
- #gambar1 {
+
+    #gambar1 {
         border: 5px solid rgb(255, 255, 255);
         background: url("https://raw.githubusercontent.com/mbagusvicky1999/https-mbagusvicky1999.github.io/master/background2.jpg");
         background-repeat: no-repeat;
@@ -192,4 +193,4 @@
             background-position: center;
         }
     }
-</style>
+
