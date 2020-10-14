@@ -1,14 +1,5 @@
 <!DOCTYPE stylesheet>
 <style>
-    #gambar1 {
-        border: 5px solid rgb(255, 255, 255);
-        background: url("https://raw.githubusercontent.com/viki179/VikiPK.github.io/master/background2.jpg");
-        background-repeat: no-repeat;
-        background-size: 1400px;
-        background-position: center;
-        padding: 35px;
-    }
-    
     ul {
         list-style-type: none;
         margin: 0;
